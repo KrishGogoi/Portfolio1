@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio1/static/css/main.10d3685b.css",
+    "main.js": "/Portfolio1/static/js/main.6a04248c.js",
+    "static/media/Krishna_Resume.pdf": "/Portfolio1/static/media/Krishna_Resume.24fd43f0d5346ec99016.pdf",
+    "static/media/profile.jpg": "/Portfolio1/static/media/profile.e5f61a19107359eefd08.jpg",
+    "static/media/photoshop.png": "/Portfolio1/static/media/photoshop.7aaa4afadfd90fd8a120.png",
+    "static/media/machine_learning.png": "/Portfolio1/static/media/machine_learning.398a89ac7fb3db3ec2f2.png",
+    "static/media/react.png": "/Portfolio1/static/media/react.4127b36258b5e9dc8f88.png",
+    "static/media/java.png": "/Portfolio1/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/cpp.png": "/Portfolio1/static/media/cpp.24a8f93854ab092f17a7.png",
+    "static/media/work2.jpg": "/Portfolio1/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/Portfolio1/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/Portfolio1/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/Portfolio1/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/Portfolio1/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/github.png": "/Portfolio1/static/media/github.bb237d4016db12bb9c63.png",
+    "static/media/me_icon.jpeg": "/Portfolio1/static/media/me_icon.1f496422093ef47c9615.jpeg",
+    "index.html": "/Portfolio1/index.html",
+    "main.10d3685b.css.map": "/Portfolio1/static/css/main.10d3685b.css.map",
+    "main.6a04248c.js.map": "/Portfolio1/static/js/main.6a04248c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d3685b.css",
+    "static/js/main.6a04248c.js"
+  ]
+}
