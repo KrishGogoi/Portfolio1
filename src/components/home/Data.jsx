@@ -7,7 +7,7 @@ const Data = () => {
         </h1>
         <br />
         <h3 className="home__subtitle">Data Analyst</h3>
-        <p className="home__description">Hi, I'm a detail-oriented data analyst based in Guwahati, Assam. Passionate about deep diving into raw data to uncover hidden patterns, meaningful insights, and new perspectives. </p>
+        <p className="home__description">Hello, I'm a detail-oriented data analyst based in Guwahati, Assam. Passionate about deep diving into raw data to uncover hidden patterns, meaningful insights, and new perspectives. </p>
     
         <a href="#contact" className="button button--flex">
             Say hello
